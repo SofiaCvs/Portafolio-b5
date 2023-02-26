@@ -18,6 +18,18 @@ h1{
     font-size: 2.5rem;
     font-family: 'Rubik Dirt', cursive;
 }
+.seccion-oscura {
+    color: white;
+    background-color: #1b1b32;
+}
+.seccion-titulo {
+    font-size: 2.5rem;
+    padding: 15px 0;
+    font-family: 'Rubik Dirt', cursive;
+}
+.seccion-texto{
+    font-size: 1.2rem;
+}
 /* section hero*/
 .hero {
     background-color: #f5f6f7;
@@ -41,7 +53,15 @@ h1{
     font-size: 1.5rem;
     color: #615151;
 }
-
+/* Sobre mi*/
+.sobre-mi{
+    height:500px;
+    padding: 15px;0
+}
+.sobre-mi .contenedor{
+    max-width: 600px;
+    text-align: center;
+}
 /*Adabtable responsivo*/
 @media screen and (max-width: 767px)
 {
