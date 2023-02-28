@@ -16,24 +16,24 @@ section{
 }
 h1{
     font-size: 2.5rem;
-    font-family: 'Rubik Dirt', cursive;
+    font-family: 'Dancing Script', cursive;
 }
 .seccion-oscura {
     color: white;
-    background-color: #1b1b32;
+    background-color: #FD6584;
 }
 .seccion-titulo {
-    font-size: 2.5rem;
+    font-size: 2.7rem;
     padding: 15px 0;
-    font-family: 'Rubik Dirt', cursive;
+    font-family: 'Dancing Script', cursive;
 }
 .seccion-descripcion {
-    font-size: 1.2rem;
+    font-size: 1.1rem;
     color: #584e4e;
     text-align: center;
 }
 .seccion-texto{
-    font-size: 1.2rem;
+    font-size: 0.5rem;
 }
 .btn-info {
     font-size: 1.1rem;
@@ -73,7 +73,7 @@ h1{
 }
 /*experiencia*/
 .experiencia {
-    color: black;
+    color: #2F2E41;
     background-color: white;
     padding: 40px 40px 60px 40px;
 }
@@ -88,12 +88,12 @@ h1{
 }
 .experiencia .columna:hover{
     color: white;
-    background-color: #1b1b32;
+    background-color: #FD6584;
 }
 .experiencia i {
     font-size: 2.5rem;
-    color: #7aed30;
-    background-color: #0a0a23;
+    color: #FD6584;
+    background-color: #2F2E41;
     padding: 8px 19px;
     border-radius: 50%;
 }
@@ -154,12 +154,12 @@ h1{
     display: flex;
 }
 .overlay i {
-    color: black;
+    color: #2F2E41;
     font-size: 60px;
     margin: 10px;
 }
 .texto-negro {
-    color: black;
+    color:#2F2E41;
 }
 .texto-blanco {
     color: white;
@@ -203,7 +203,7 @@ h1{
 .testimonio-texto {
     font-family: 'Share Tech Mono', monospace;
     max-width: 70%;
-    font-size: 20px;
+    font-size: 1rem;
     text-align: center;
 }
 .testimonio-info {
@@ -228,7 +228,7 @@ h1{
 }
 .contacto .rectangulo {
     margin-top: -5rem;
-    background-color: rgb(13,110,253);
+    background-color: #2F2E41;
     border-radius: 10px;
     box-shadow: 8px 1px 4px 1px white;
 }
@@ -243,7 +243,7 @@ h1{
 }
 .contacto button:hover{
     background-color: white;
-    color:black;
+    color:#2F2E41;
 }
 .contacto button {
     color: white;
@@ -256,7 +256,7 @@ h1{
     transition: all 0.2s ease-in-out;
 }
 .contacto button:hover i {
-    color: black;
+    color: #2F2E41;
 }
 /* pie de pagina footer */
 footer{
@@ -296,7 +296,7 @@ footer{
 }
 
 .iconos-redes-sociales a:hover i {
-    color:black;
+    color:#2F2E41;
 }
 
 .derechos-de-autor{
